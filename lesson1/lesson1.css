@@ -1,1 +1,22 @@
 
+.grid {
+  display: grid;
+  grid-template:
+    "side top top" minmax(100px, auto)
+    "side bottom bottom" minmax(100px,auto) / 1fr 2fr;
+}
+
+.grid-item1 {
+  background-color: blue;
+  grid-area: side;
+}
+
+.grid-item2 {
+  background-color: red;
+  grid-area: top;
+}
+
+.grid-item3 {
+  background-color: green;
+  grid-area: bottom;
+}

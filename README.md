@@ -13,3 +13,6 @@ https://github.com/sae-github/handsonFrontend/blob/master/css/grid-work.md
 
 ### lesson3 
 [codeSandBox](https://codesandbox.io/s/cool-matan-4g5j8)
+
+### Record Blog
+https://itosae.com/grid_lesson/
